@@ -1,3 +1,4 @@
-# omnifood-website
+# Omnifood - Food subscription website
 
-## AI Powered food subscription
+## live demo
+https://sweet-frangipane-a3f41d.netlify.app/
